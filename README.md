@@ -4,7 +4,7 @@ This is a global study conducted by the Association of Biomedical Resource Facil
 
 Detailed sample prep instruction and sample kit info are posted in this repository. 
 
-Detailed sample prep video can be also watched on Youtube:
+Detailed sample prep video is also available on Youtube:
 https://youtu.be/jtQv8CEIObk
 
 Key Words: rigor, reproducibility, resolution, quality control, point spread function (PSF), Signal to Noise Ratio (SNR), confocal microscopy, fluorescence microscopy, standard, 3D imaging, quantitative imaging
